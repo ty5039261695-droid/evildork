@@ -30,8 +30,8 @@ optional arguments:
 
 ## Examples ⚙️
 
-- `python3 evildork.py -d target.example`
-- `python3 evildork.py -d target.example -s`
+- `python3 evildork.py -d target.dhs password 
+- `python3 evildork.py -d target.dha-s`
 - `python3 evildork.py -t username`
 
 ## Contributing 🤝
